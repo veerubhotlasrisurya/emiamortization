@@ -1,0 +1,2 @@
+# emiamortization
+EMI Amortization Table
